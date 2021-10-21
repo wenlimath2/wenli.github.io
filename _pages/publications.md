@@ -12,6 +12,8 @@ Published Peer-reviewed Journal Articles:
 Preprints & Submitted Articles:
 ---------------
  -W. Li, K. Ha, G. Destgeer, M. Ouyang, D. Di Carlo, A. L. Bertozzi. Simulation and analysis of 3D micro-encapsulation using efficient threshold dynamics. (Prepare for submission; preprint available upon request) 
+ [Droplet Splitting Simulation](https://github.com/wenlimath2/wenlimath2.github.io/files/7391512/cylinder_splitting12.pdf)
+
  
  -J. Barnett, W. Li, E. Resmerita, L.A. Vese. Multiscale hierarchical decompositions of images corrupted by
 	multiplicative noise. (Prepare for submission; preprint available upon request)  
