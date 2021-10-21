@@ -34,7 +34,6 @@ Teaching Experience
 
 [Clarkson University](https://www.clarkson.edu/) (Teaching Assistant, Fall 2015 - Spring 2019)
 ----------
-- Co-Calculus
 - Calculus I\textendash III
 - Applied Linear Algebra
 - Differential Equations
