@@ -1,12 +1,9 @@
 ---
 layout: archive
-title: "Teaching"
+title: "Teaching Experience"
 permalink: /teaching/
 author_profile: true
 ---
-
-Teaching Experience
-================================
 
 [UCLA](https://ww3.math.ucla.edu/) (Lecturer,  Fall 2019 - Present)
 --------------------
