@@ -8,10 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an Assistant Adjunct Professor (postdoc) in Applied Mathematics at UCLA, mentored by [Andrea L. Bertozzi](https://www.math.ucla.edu/~bertozzi/) and [Luminita A. Vese](https://www.math.ucla.edu/~lvese/). 
+I am currently an Assistant Adjunct Professor (postdoc) in Applied Mathematics at UCLA, working with [Andrea L. Bertozzi](https://www.math.ucla.edu/~bertozzi/) and [Luminita A. Vese](https://www.math.ucla.edu/~lvese/). I received my Ph.D. in Applied Mathematics at Clarkson University in May 2019, under the guidance of [Guangming Yao](https://people.clarkson.edu/~gyao/) and [C.S. Chen](http://www.math.usm.edu/cschen). Before 2015, I was a Lecturer of Mathematics at [Taiyuan University of Technology](http://www.tyut.edu.cn/). 
 
 Research Interests:
 ======
+
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
 1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
