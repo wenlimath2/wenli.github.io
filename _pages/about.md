@@ -14,7 +14,7 @@ Here is my [CV]()
 
 Employment:
 ======
-- Assistant Adjunct Professor     [UCLA Mathematics Department](https://ww3.math.ucla.edu/) (2019-Present)
+- Assistant Adjunct Professor,    [UCLA Mathematics Department](https://ww3.math.ucla.edu/), 2019-Present
 
 Research Interests:
 ======
