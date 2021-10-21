@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently an Assistant Adjunct Professor (postdoc) in Applied Mathematics at UCLA. I received my Ph.D. in Applied Mathematics at Clarkson University in May 2019. 
 
-Here is my [CV]()
+Here is my [CV](https://github.com/wenlimath2/wenlimath2.github.io/files/7387848/Wen_102021.pdf)
 
 Employment:
 ======
