@@ -13,7 +13,7 @@ Preprints & Submitted Articles:
 ---------------
  - W. Li, K. Ha, G. Destgeer, M. Ouyang, D. Di Carlo, A. L. Bertozzi. Simulation and analysis of 3D micro-encapsulation using efficient threshold dynamics. (Prepare for submission; preprint available upon request) 
  
- <img width="350" alt="partial_filling" src="https://user-images.githubusercontent.com/81716778/138331853-f4c8f80e-cf1f-46d0-9710-b19b889ae561.png"> <img width="300" alt="splitting1" src="https://user-images.githubusercontent.com/81716778/138331893-3d53b36c-540e-4a79-b011-68c6e61ddd29.png">
+ <img width="400" alt="partial_filling" src="https://user-images.githubusercontent.com/81716778/138331853-f4c8f80e-cf1f-46d0-9710-b19b889ae561.png"> <img width="300" alt="splitting1" src="https://user-images.githubusercontent.com/81716778/138331893-3d53b36c-540e-4a79-b011-68c6e61ddd29.png">
  
  - J. Barnett, W. Li, E. Resmerita, L.A. Vese. Multiscale hierarchical decompositions of images corrupted by
 	multiplicative noise. (Prepare for submission; preprint available upon request)  
