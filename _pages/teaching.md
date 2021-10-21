@@ -33,17 +33,17 @@ author_profile: true
 
 [Clarkson University](https://www.clarkson.edu/) (Teaching Assistant, Fall 2015 - Spring 2019)
 ----------
-- Calculus I\textendash III
+- Calculus  I-III
 - Applied Linear Algebra
 - Differential Equations
-- Fourier Series \& Boundary Value Problems
+- Fourier Series & Boundary Value Problems
 
 [Taiyuan University of Technology](https://english.tyut.edu.cn/) (Lecturer, Fall 2007 - Spring 2015)} 
 ------------
 
 (200-300 students per semester)
 
-- Calculus I\textendash III
+- Calculus I-III
 - Linear Algebra
 - Numerical Analysis
 - Complex Analysis
