@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an Assistant Adjunct Professor (postdoc) in Applied Mathematics at UCLA. I received my Ph.D. in Applied Mathematics at Clarkson University in May 2019. 
+I am currently an Assistant Adjunct Professor (postdoc) in Applied Mathematics at University of California, Los Angeles. I received my Ph.D. in Applied Mathematics at Clarkson University in May 2019. 
 
 I am on the job market from Fall 2021.
 
