@@ -7,8 +7,10 @@ author_profile: true
 
 Teaching Experience
 ================================
+
 [UCLA](https://ww3.math.ucla.edu/) (Lecturer,  Fall 2019 - Present)
 --------------------
+
 (40-80 students per semester)
 
 - [MATH 155](https://ww3.math.ucla.edu/courses/) Mathematical Imaging (Upper division undergraduate course) 
@@ -41,6 +43,7 @@ Teaching Experience
 
 [Taiyuan University of Technology](https://english.tyut.edu.cn/) (Lecturer, Fall 2007 - Spring 2015)} 
 ------------
+
 (200-300 students per semester)
 
 - Calculus I\textendash III
