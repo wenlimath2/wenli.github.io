@@ -83,11 +83,11 @@ author:
   name             : "Wen Li"
   avatar           : "profile.png"
   bio              : "Assistant Adjunct Professor of Applied Mathematics"
-  location         : "UCLA"
-  employer         :
+  location         : 
+  employer         : "UCLA"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=X06t-FoAAAAJ&hl=en"
-  email            :
+  email            : "wenli@math.ucla.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
