@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Wen Li's Personal Website"
+title                    : "Wen Li"
 title_separator          : "-"
 name                     : &name "Wen Li"
 description              : &description "Assistant Adjunct Professor"
