@@ -6,6 +6,15 @@ author_profile: true
 ---
 
 Published Peer-reviewed Journal Articles:
-===
-  You can find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=X06t-FoAAAAJ&hl=en)
+---------------
+  You can find my published articles on my [Google Scholar profile](https://scholar.google.com/citations?user=X06t-FoAAAAJ&hl=en).
+  
+Preprints & Submitted Articles:
+---------------
+{\bf W. Li}, K. Ha, G. Destgeer, M. Ouyang, D. Di Carlo, A. L. Bertozzi. \textit{Simulation and analysis of 3D micro-encapsulation using efficient threshold dynamics}. (Prepare for submission; preprint available upon request) 
+	\item J. Barnett, {\bf W. Li}, E. Resmerita, L.A. Vese. \textit{Multiscale hierarchical decompositions of images corrupted by
+	multiplicative noise}. (Prepare for submission; preprint available upon request)  
+	\item {\bf W. Li}, B.N. Nzeribe, G.R. Liu, G. Yao*, M. Crimi, K. Rubasinghe, C. Divine, J. Mcdonough, J. Wang. \textit{Modelling, simulation and analysis of groundwater flow captured by the horizontal reactive media well using the cell-based smoothed radial point interpolation method}. (In revision with Advances in Water Resources)
+	\item J. Niu, {\bf W. Li}, and G. Yao*. \textit{An reproducing kernel method for solving singularly perturbed delay parabolic partial differential equations}. (Under review with Engineering Analysis with Boundary Elements)
+  
 
