@@ -8,7 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an Assistant Adjunct Professor (postdoc) in Applied Mathematics at UCLA, working with [Andrea L. Bertozzi](https://www.math.ucla.edu/~bertozzi/) and [Luminita A. Vese](https://www.math.ucla.edu/~lvese/). I received my Ph.D. in Applied Mathematics at Clarkson University in May 2019, under the guidance of [Guangming Yao](https://people.clarkson.edu/~gyao/) and [C.S. Chen](http://www.math.usm.edu/cschen). Before 2015, I was a Lecturer of Mathematics at [Taiyuan University of Technology](http://www.tyut.edu.cn/). 
+I am currently an Assistant Adjunct Professor (postdoc) in Applied Mathematics at UCLA. I received my Ph.D. in Applied Mathematics at Clarkson University in May 2019. 
+
+Here is my [CV]()
+
+Employment:
+======
+- Assistant Adjunct Professor     [UCLA Mathematics Department](https://ww3.math.ucla.edu/) (2019-Present)
 
 Research Interests:
 ======
