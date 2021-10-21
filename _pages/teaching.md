@@ -16,8 +16,8 @@ Teaching Experience
   - Winter 2021 (Online) 
   - Spring 2021 (Online) 
   - Spring 2022 
-  - Winter 2022 (Tentative Schedule)
-  - Spring 2022 (Tentative Schedule)
+  - Winter 2022 (Tentative)
+  - Spring 2022 (Tentative)
 
 - [MATH 151A](https://ww3.math.ucla.edu/courses/)  Applied Numerical Methods (Upper division undergraduate course) 
   - Fall 2020 (Online)
