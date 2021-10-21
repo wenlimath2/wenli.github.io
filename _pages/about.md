@@ -18,12 +18,11 @@ Research Interests:
 - Image Processing
 - Microfluidics Applications
 - Numerical Methods for Solving Partial Differential Equations:
-- - Meshfree Methods
-- - Smoothed Point Interpolation Methods
-- - Finite Element Method
-- - Smoothed Finite Element Methods
-- Radial Basis Functions[Wen_102021.pdf](https://github.com/wenlimath2/wenlimath2.github.io/files/7391310/Wen_102021.pdf)
-
+  - Meshfree Methods
+  - Smoothed Point Interpolation Methods
+  - Finite Element Method
+  - Smoothed Finite Element Methods
+- Radial Basis Functions
 - Inverse Problems
 - Modeling and Simulation of Real-World Problems
 
