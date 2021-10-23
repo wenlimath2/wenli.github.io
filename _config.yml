@@ -311,5 +311,5 @@ compress_html:
     envs: development
 
 #Google Analytics
-Google_analytics: G-FGXYVYD2P1 #your google analytics
+Google_analytics: UA-210949294-1 #your google analytics
 
