@@ -14,7 +14,6 @@ author_profile: true
   - Winter 2020 
   - Winter 2021 (Online) 
   - Spring 2021 (Online) 
-  - Spring 2022 
   - Winter 2022 (Tentative)
   - Spring 2022 (Tentative)
 
