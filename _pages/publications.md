@@ -17,7 +17,7 @@ Preprints & Submitted Articles:
  
  - J. Barnett, W. Li, E. Resmerita, L.A. Vese. Multiscale hierarchical decompositions of images corrupted by
 	multiplicative noise. (Prepare for submission; preprint available upon request)  
-	<img src="https://user-images.githubusercontent.com/81716778/139602980-b525ea52-09b3-4e8a-9283-27da480205e8.png" width="250" height="250">
+	<img src="https://user-images.githubusercontent.com/81716778/139602980-b525ea52-09b3-4e8a-9283-27da480205e8.png" width="300" height="250">
 	<img src="https://user-images.githubusercontent.com/81716778/139602450-34f47476-3558-4aa8-b9bb-94789e60e765.png" width="250" height="250">
 
 	
