@@ -8,7 +8,7 @@ author_profile: true
 [UCLA](https://ww3.math.ucla.edu/) (Lecturer,  Fall 2019 - Present)
 --------------------
 
-(40-80 students per semester)
+(40-80 students per quarter)
 
 - [MATH 155](https://ww3.math.ucla.edu/courses/) Mathematical Imaging (Upper division undergraduate course) 
   - Winter 2020 
