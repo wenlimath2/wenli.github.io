@@ -12,14 +12,14 @@ I am currently an Assistant Adjunct Professor (postdoc) in Applied Mathematics a
 
 I am on the job market from Fall 2021.
 
-Here is my [CV](https://github.com/wenlimath2/wenlimath2.github.io/files/7402084/WenLi_CV_1021.pdf).
+Here is my [CV](https://github.com/wenlimath2/wenlimath2.github.io/files/7572336/WenLi_CV_1119.pdf).
 
 
 
 Research Interests:
 ======
 - Image Processing
-- Microfluidics Applications
+- Microfluidics
 - Numerical Methods for Solving Partial Differential Equations:
   - Meshfree Methods
   - Smoothed Point Interpolation Methods
