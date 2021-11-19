@@ -21,7 +21,7 @@ Preprints & Submitted Articles:
 
 	
 	
- - W. Li, B.N. Nzeribe, G.R. Liu, G. Yao, M. Crimi, K. Rubasinghe, C. Divine, J. Mcdonough, J. Wang. Modelling, simulation and analysis of groundwater flow captured by the horizontal reactive media well using the cell-based smoothed radial point interpolation method. (In revision with Advances in Water Resources)
+ - W. Li, B.N. Nzeribe, G.R. Liu, G. Yao, M. Crimi, K. Rubasinghe, C. Divine, J. Mcdonough, J. Wang. Modelling, simulation and analysis of groundwater flow captured by the horizontal reactive media well using the cell-based smoothed radial point interpolation method. (Under minor revision with Advances in Water Resources)
  
  <img width="280" alt="testpit" src="https://user-images.githubusercontent.com/81716778/138334783-c0270f80-52dc-47b8-8f0b-fff5127b678e.png"> <img width="300" alt="mesh" src="https://user-images.githubusercontent.com/81716778/138334773-ef6ce91e-fc7f-40c7-90cf-21b7dce44fd3.png"> <img width="360" alt="HRXsimulation" src="https://user-images.githubusercontent.com/81716778/138334757-ac0a28b0-14bf-489f-a3e6-7f9d6c689f97.png">
  
