@@ -16,10 +16,7 @@ Preprints & Submitted Articles:
  <img width="400" alt="partial_filling" src="https://user-images.githubusercontent.com/81716778/138331853-f4c8f80e-cf1f-46d0-9710-b19b889ae561.png"> <img width="300" alt="splitting1" src="https://user-images.githubusercontent.com/81716778/138331893-3d53b36c-540e-4a79-b011-68c6e61ddd29.png">
  
  - J. Barnett, W. Li, E. Resmerita, L.A. Vese. Multiscale hierarchical decompositions of images corrupted by
-	multiplicative noise. (Prepare for submission; preprint available upon request)  
-<img src="https://user-images.githubusercontent.com/81716778/139602980-b525ea52-09b3-4e8a-9283-27da480205e8.png" width="250" height="200"><img src="https://user-images.githubusercontent.com/81716778/139602450-34f47476-3558-4aa8-b9bb-94789e60e765.png" width="200" height="200"><img width="430" alt="Screen Shot 2021-10-31 at 3 26 22 PM" src="https://user-images.githubusercontent.com/81716778/139603198-c6d4bad8-c82a-46bd-ae91-9ef32d40a686.png">
-
-	
+	multiplicative noise. (In preparation)  
 	
  - W. Li, B.N. Nzeribe, G.R. Liu, G. Yao, M. Crimi, K. Rubasinghe, C. Divine, J. Mcdonough, J. Wang. Modelling, simulation and analysis of groundwater flow captured by the horizontal reactive media well using the cell-based smoothed radial point interpolation method. (Accepted by Advances in Water Resources)
  
