@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Wen Li"
 title_separator          : "-"
 name                     : &name "Wen Li"
-description              : &description "Assistant Adjunct Professor"
+description              : &description "Assistant Professor"
 url                      : https://wenlimath2.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "wenlimath2/wenlimath2.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Wen Li"
   avatar           : "IMG_0284.JPG"
-  bio              : "Assistant Adjunct Professor of Applied Mathematics"
+  bio              : "Assistant Professor of Mathematics"
   location         : 
-  employer         : "UCLA"
+  employer         : "Forhdam University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=X06t-FoAAAAJ&hl=en"
-  email            : "wenli@math.ucla.edu"
+  email            : "wli198@fordham.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
