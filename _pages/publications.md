@@ -7,7 +7,7 @@ author_profile: true
 
 Published Peer-reviewed Journal Articles:
 ---------------
-  You can find my published articles on my [Google Scholar profile](https://scholar.google.com/citations?user=X06t-FoAAAAJ&hl=en).
+  You can find my published articles on my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=EceMXD8AAAAJ&view_op=list_works&sortby=pubdate).
   
 Preprints & Submitted Articles:
 ---------------
