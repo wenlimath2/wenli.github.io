@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently an Assistant Professor at Fordham University. Before Fordham I was an Assistant Adjunct Professor (postdoc 2019-2022) in Applied Mathematics at University of California, Los Angeles. I received my Ph.D. in Applied Mathematics at Clarkson University in May 2019. 
 
-Here is my [CV](https://github.com/wenlimath2/wenlimath2.github.io/files/9472413/WenLi_CV_090122.pdf).
+Here is my [CV](https://github.com/user-attachments/files/17124656/CV-7.pdf).
 
 
 
