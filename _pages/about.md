@@ -18,7 +18,6 @@ Here is my [CV](https://github.com/user-attachments/files/17124656/CV-7.pdf).
 Research Interests:
 ======
 - Image Processing
-- Microfluidics
 - Numerical Methods for Solving Partial Differential Equations:
   - Meshfree Methods
   - Smoothed Point Interpolation Methods
@@ -26,6 +25,7 @@ Research Interests:
   - Smoothed Finite Element Methods
 - Radial Basis Functions
 - Inverse Problems
+- Microfluidics
 - Modeling and Simulation of Real-World Problems
 
 
